@@ -1,6 +1,5 @@
-entity,product_type,attribute_set_code,behavior,sku,name
-catalog_product,simple,default,append,1040971,abc@ xyz
-catalog_product,simple,default,append,3894734384,Bilal Test Product ®
-catalog_product,simple,default,append,347384,Bilal Test Product 2 ®!*&
-catalog_product,simple,default,append,9834344343,Bilal Test ®!*& Product 3
-catalog_product,simple,default,append,92839283,Bilal Test Product 4
+entity,behavior,sku,store_view_code,attribute_set_code,product_type,product_websites,name
+catalog_product,append,24-WG085,,Default,simple,base,Sprite Yoga Strap 6 foot
+catalog_product,append,24-WG086,,Default,simple,base,Sprite Yoga Strap 8 foot
+catalog_product,append,24-WG087,,Default,simple,base,Sprite Yoga Strap 10 foot
+catalog_product,append,24-WG085_Group,,Default,grouped,base,Set of Sprite Yoga Straps
