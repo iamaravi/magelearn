@@ -1,6 +1,6 @@
-entity,behavior,sku,name
-catalog_product,append,1040971,abc@ xyz
-catalog_product,append,3894734384,Bilal Test Product ®
-catalog_product,append,347384,Bilal Test Product 2 ®!*&
-catalog_product,append,9834344343,Bilal Test ®!*& Product 3
-catalog_product,append,92839283,Bilal Test Product 4
+entity,product_type,behavior,sku,name
+catalog_product,simple,append,1040971,abc@ xyz
+catalog_product,simple,append,3894734384,Bilal Test Product ®
+catalog_product,simple,append,347384,Bilal Test Product 2 ®!*&
+catalog_product,simple,append,9834344343,Bilal Test ®!*& Product 3
+catalog_product,simple,append,92839283,Bilal Test Product 4
