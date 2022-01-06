@@ -1,4 +1,6 @@
 entity,behavior,sku,attribute_set_code,product_type,product_websites,name
-catalog_product,append,018139,Stationery,simple,consortium,Sprite Yoga Strap 6df foot
-catalog_product,append,018138,Stationery,simple,consortium,Spritedf Yoga Strap 8 foot
-catalog_product,append,1040971,Stationery,configurable,consortium,Sprite Yoga Strap 10 foot
+catalog_product,append,1040971,Stationery,simple,consortium,abc@ xyz
+catalog_product,append,3894734384,Stationery,simple,consortium,Bilal Test Product ®
+catalog_product,append,347384,Stationery,configurable,consortium,Bilal Test Product 2 ®!*&
+catalog_product,append,9834344343,Stationery,simple,consortium,Bilal Test ®!*& Product 3
+catalog_product,append,92839283,Stationery,simple,consortium,Bilal Test Product 4
