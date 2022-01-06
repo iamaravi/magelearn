@@ -1,5 +1,4 @@
-entity,behavior,sku,store_view_code,attribute_set_code,product_type,product_websites,name
-catalog_product,append,24-WG085,,Default,simple,base,Sprite Yoga Strap 6 foot
-catalog_product,append,24-WG086,,Default,simple,base,Sprite Yoga Strap 8 foot
-catalog_product,append,24-WG087,,Default,simple,base,Sprite Yoga Strap 10 foot
-catalog_product,append,24-WG085_Group,,Default,grouped,base,Set of Sprite Yoga Straps
+entity,behavior,sku,attribute_set_code,product_type,product_websites,name
+catalog_product,append,018139,Stationery,simple,Consortium,Sprite Yoga Strap 6 foot
+catalog_product,append,018138,Stationery,simple,Consortium,Sprite Yoga Strap 8 foot
+catalog_product,append,1040971,Stationery,configurable,Consortium,Sprite Yoga Strap 10 foot
